@@ -3,13 +3,13 @@
 ```markdown
 Lab Goals and Outcomes:
 
-1. Refactoring JavaScript code to use more modern syntax
-2. Destructuring an object
-3. Converting normal functions into arrow function expressions
+1. Refactor JavaScript code to use more modern syntax
+2. Destructure an object
+3. Convert normal functions into arrow function expressions
 4. Examine using for..in  syntax with objects
 5. Practice using for..of syntax with arrays
-6. Creating a Node.js compatible code module using module.exports
-7. Importing a Node.js compatible code module using require
+6. Create a Node.js compatible code module using module.exports
+7. Import a Node.js compatible code module using require
 8. Examine code using the spread operator
 
 ```
