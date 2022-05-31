@@ -8,8 +8,8 @@ Lab Goals and Outcomes:
 3. Convert normal functions into arrow function expressions
 4. Examine using for..in  syntax with objects
 5. Practice using for..of syntax with arrays
-6. Create a Node.js compatible code module using module.exports
-7. Import a Node.js compatible code module using require
+6. Create Node.js compatible code module via module.exports
+7. Import Node.js compatible code module via require
 8. Examine code using the spread operator
 
 ```
