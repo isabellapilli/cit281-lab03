@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-lab03/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LAB 3
 
 ```markdown
-Syntax highlighted code block
+Lab Goals and Outcomes:
 
-# Header 1
-## Header 2
-### Header 3
+1. Practice refactoring JavaScript code to use more modern syntax
+2. Practice destructuring an object
+3. Practice converting normal functions into arrow function expressions
+4. Examine using for..in  syntax with objects
+5. Practice using for..of syntax with arrays
+6. Practice creating a Node.js compatible code module using module.exports
+7. Practice importing a Node.js compatible code module using require
+8. Examine code using the spread operator
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- VS Code
+- Terminal
 
-### Jekyll Themes
+### What I Learned:
+In this lab I used object destructuring, arrow functions using explicit and implicit returns, explicit meaning a return statement is 
+needed and the opposite for implicit. I was also able to experiment with a *for..of* loop, a *for..in* loop, the *module.exports* object,
+and different fuctions such as *reverseString()*, *concatenateString()*, *require()*, and more.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-lab03/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Files from Lab 3!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ss1](lab03.png)
